@@ -10,6 +10,8 @@ Koppeltaal 2.0 bestaat uit _componenten_ (in ArchiMate een EA modelleer taal wor
 
 In de doelstelling van stichting Koppeltaal is middels het woord ‘_interne_’ een beperking voor de interfaces en de daarbij behorende Koppeltaal diensten opgenomen. Met deze beperking wordt bedoeld dat de interfaces aangeboden worden onder de verantwoordelijkheid van **één zorgaanbieder (domein)**. De dienstverlenende componenten worden geleverd door verschillende **leveranciers.** Deze leveranciers kunnen hun componenten ontsluiten via het Koppeltaal platform onder de verantwoordelijkheid van de zorgaanbieder (domein).
 
+### Componenten
+
 Koppeltaal 2.0 bestaat uit de volgende componenten en collaboraties:
 
 * "Koppeltaal domein": Het geheel van samenwerking tussen de Koppeltaal voorziening en - platform onder de verantwoording van een zorgaanbieder.
@@ -24,6 +26,8 @@ Koppeltaal 2.0 bestaat uit de volgende componenten en collaboraties:
 * "FHIR Resource Provider": Het component die de benodigde gegevens afschermt en reageert op verzoeken om gegevens beschikbaar te stellen en te bewaren met gebruikmaking van toegangstokens.
 * "Logging": Het component die alle uitvoerende handelingen vastlegt, zoals bedoeld in de AVG (Algemene Verordening Gegevensbescherming) en[ NEN7513:2018](https://www.nen.nl/nen-7513-2018-nl-245399). Daarnaast wordt er functionaliteit aangeboden om de geregistreerde handelingen te kunnen opvragen.
 
+### Interfaces
+
 De Koppeltaal 2.0 Interfaces:
 
 * "FHIR REST API" : Worden gegevens op een consistente manier uitgewisseld op basis van de [HL7 FHIR R4](https://www.hl7.org/fhir/R4/history.html) - specificaties.&#x20;
@@ -31,6 +35,8 @@ De Koppeltaal 2.0 Interfaces:
 * "AppRegistratie": Worden gegevens van een concrete component instantie op een consistente en veilige manier vastgelegd.&#x20;
 * "LogEntry" : Het vastleggen van een FHIR REST API interactie (tussen de componenten) in een logregel.
 * "Subscription Channel": Een abonnementskanaal voor het versturen van notificaties door de FHIR Resource Provider bij bepaalde gebeurtenissen. De componenten kunnen zelf de gebeurtenis (criteria) aangeven waarin zij geïnteresseerd zijn.
+
+### Diensten
 
 De volgende Koppeltaal 2.0 diensten (concrete component instanties) kunnen door één of meerdere leveranciers, of in combinatie met leveranciers, aangeboden en vervuld worden (en zullen moeten worden geregistreerd):
 
