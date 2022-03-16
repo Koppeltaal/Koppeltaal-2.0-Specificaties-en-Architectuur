@@ -5,3 +5,4 @@
     * [Eisen (en aanbevelingen)](topics/cid-component-interface-en-diensten/eisen-en-aanbevelingen.md)
   * [BAI - Basis Interacties](topics/bai-basis-interacties/README.md)
     * [Eisen (en aanbevelingen)](topics/bai-basis-interacties/eisen-en-aanbevelingen.md)
+  * [IDR - IDentifiers en Referenties](readme/idr-identifiers-en-referenties.md)
