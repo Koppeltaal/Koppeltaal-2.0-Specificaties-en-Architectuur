@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2023-02-06T13:04:41.449Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="SsWB68y-GLbArTcZqyRS" version="20.8.16" type="github"><diagram name="Page-1" id="CBpQEgT_45eam3KEG-gq">zZhPc6IwGMY/DTPdQ2cIKMpx19bqdnto7YzHTgxvISMSJgTR/fQbJCganbUHm1w0PPlD8uPNmwccf7TaPHGcJy8sgtTx3Gjj+A+O5yEXufKvVraNEgyVEHMaqUYHYUb/QttTqSWNoDhqKBhLBc2PRcKyDIg40jDnrDpu9snS47vmOAZNmBGc6uqcRiJp1KE3OOgToHHS3hkFYVOzwm1jtZIiwRGrOpL/6PgjzphoSqvNCNIaXsul6Te+ULufGIdMXNMhjeb8fvrx+jB+fhqP/1Tu6zq895pR1jgt1YJbkM2cxbYFwVmZRVCP5Tr+ryqhAmY5JnVtJR+91BKxSuUVkkU1KnABm4vTRXsIMnqArUDwrWyiOrTYVNy0YVMdHkKgpKTLv69ErJ57vB/4gEYWFJ0vkPI1UrAhCc5k+FiG6mpW4a1Y9TRWKS4zkthGqu9dR8rzb0Uq0EjFkAHHQkaVu4TtbnWUGwcX/nc3hme43QzbQMOWl4uUFkm9qLpE9vjufs+fZz9sA4jORN63EhxqBDnEtBBgXayhwDCqUEOFCYGikBqHgpWcmD8CTph5rmFmrX3rQPsEUZ8ALq57W4bLdD5D6CIullkXXb7p5IXO2FYOu0PTMlKmcxfSbWuZRxaS6hnPWLppLcpFQThd2AerZxpW/+IGdAUulrYBO2f0vxeYbvT3wCbvU+t4Gc9busOnGRW0IWbJ2+QJtMB4Cjtn6gnQtUXM0Ck046lMt/eySKPO3nQFW0JmHzrTrrVNqh10s5efb+871yp/xpPpm3XUBrc7CuTl4XPurq7zUdx//Ac=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-06T13:11:15.312Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="-8HDoIiR8tGA8ceoAYzK" version="20.8.16" type="github">
+  <diagram name="Page-1" id="CBpQEgT_45eam3KEG-gq">
+    <mxGraphModel dx="1010" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-2" value="connect" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="80" width="60" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-3" value="exchange" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="280" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-4" value="launch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="520" width="60" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-6" value="generate key pair" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="80" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-7" value="publish public key (JWKS)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="120" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-8" value="register" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="160" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-9" value="access resource" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-10" value="fetch all" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-11" value="fetch one" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-12" value="create" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="360" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-13" value="update" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-14" value="subscribe" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="440" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-15" value="create task" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="520" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-16" value="create HTI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="560" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-17" value="initiate launch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="600" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-18" value="receive launch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="640" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-19" value="validate HTI token" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="680" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-20" value="SMART on FHIR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="720" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hYRiOcwRe31b9Vzl6XwD-1" value="TOP-KT-001&lt;br&gt;Componenten, Interfaces en Diensten" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hYRiOcwRe31b9Vzl6XwD-2" value="TOP-KT-001&lt;br&gt;Componenten, Interfaces en Diensten" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
