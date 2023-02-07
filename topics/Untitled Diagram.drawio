@@ -1,179 +1,179 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T08:36:42.551Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="t-d-F9H_xz-u2t4VobHF" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T08:37:45.713Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="2K8RB3jmENUCiNz3OUZU" version="20.8.16" type="github">
   <diagram name="Page-1" id="CBpQEgT_45eam3KEG-gq">
     <mxGraphModel dx="1010" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-2" value="connect" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-2" value="connect" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="20" y="80" width="60" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-3" value="exchange" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-3" value="exchange" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="20" y="280" width="60" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-4" value="launch" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ldWr-I_QDFKGFFLw0Qv9-4" value="launch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="20" y="440" width="60" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ldWr-I_QDFKGFFLw0Qv9-6" value="generate key pair" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="90" y="80" width="90" height="30" as="geometry" />
+          <mxGeometry x="100" y="80" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldWr-I_QDFKGFFLw0Qv9-7" value="publish public key (JWKS)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="90" y="120" width="90" height="30" as="geometry" />
+          <mxGeometry x="100" y="120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldWr-I_QDFKGFFLw0Qv9-8" value="register" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="90" y="160" width="90" height="30" as="geometry" />
+          <mxGeometry x="100" y="160" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldWr-I_QDFKGFFLw0Qv9-9" value="access resource" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="90" y="200" width="90" height="30" as="geometry" />
+          <mxGeometry x="100" y="200" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldWr-I_QDFKGFFLw0Qv9-11" value="fetch one/all" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="90" y="280" width="90" height="30" as="geometry" />
+          <mxGeometry x="100" y="280" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldWr-I_QDFKGFFLw0Qv9-12" value="create/update" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="90" y="320" width="90" height="30" as="geometry" />
+          <mxGeometry x="100" y="320" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldWr-I_QDFKGFFLw0Qv9-14" value="subscribe" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="89" y="360" width="90" height="30" as="geometry" />
+          <mxGeometry x="99" y="360" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldWr-I_QDFKGFFLw0Qv9-15" value="create task" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="90" y="440" width="90" height="30" as="geometry" />
+          <mxGeometry x="100" y="440" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldWr-I_QDFKGFFLw0Qv9-16" value="create HTI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="90" y="480" width="90" height="30" as="geometry" />
+          <mxGeometry x="100" y="480" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldWr-I_QDFKGFFLw0Qv9-17" value="initiate launch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="90" y="520" width="90" height="30" as="geometry" />
+          <mxGeometry x="100" y="520" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldWr-I_QDFKGFFLw0Qv9-18" value="receive launch" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="90" y="560" width="90" height="30" as="geometry" />
+          <mxGeometry x="100" y="560" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldWr-I_QDFKGFFLw0Qv9-19" value="validate HTI token" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="90" y="600" width="90" height="30" as="geometry" />
+          <mxGeometry x="100" y="600" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ldWr-I_QDFKGFFLw0Qv9-20" value="SMART on FHIR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="90" y="640" width="90" height="30" as="geometry" />
+          <mxGeometry x="100" y="640" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-1" value="TOP-KT-001&lt;br&gt;Componenten, Interfaces en Diensten" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="201" y="40" width="110" height="30" as="geometry" />
+          <mxGeometry x="211" y="40" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-2" value="TOP-KT-005c - Applicatie toegang: SMART on FHIR backend services" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="201" y="80" width="110" height="30" as="geometry" />
+          <mxGeometry x="211" y="80" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-3" value="TOP-KT-020 - Uitwisseling publieke sleutels" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="110" height="30" as="geometry" />
+          <mxGeometry x="330" y="120" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-4" value="TOP-KT-019 - Beheer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="440" y="160" width="110" height="30" as="geometry" />
+          <mxGeometry x="450" y="160" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-5" value="TOP-KT-014 - Versiebeheer en -beleid" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="440" y="200" width="110" height="30" as="geometry" />
+          <mxGeometry x="450" y="200" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-6" value="TOP-KT-016 - SMART on FHIR Conformiteit" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="561" y="200" width="110" height="30" as="geometry" />
+          <mxGeometry x="571" y="200" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-7" value="TOP-KT-002a - FHIR Resource Service interacties" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="200" y="280" width="110" height="30" as="geometry" />
+          <mxGeometry x="210" y="280" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-8" value="TOP-KT-009 - Overzicht gebruikte FHIR Resources" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="110" height="30" as="geometry" />
+          <mxGeometry x="450" y="280" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-9" value="TOP-KT-003 -ID, identifier, referenties en referentie integriteit" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="320" y="280" width="110" height="30" as="geometry" />
+          <mxGeometry x="330" y="280" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-10" value="TOP-KT-013 - Levenscyclus van een FHIR Resource" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="440" y="320" width="110" height="30" as="geometry" />
+          <mxGeometry x="450" y="320" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-11" value="TOP-KT-006 - Abonneren op en signaleren van gebeurtenissen" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="320" y="360" width="110" height="30" as="geometry" />
+          <mxGeometry x="330" y="360" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-12" value="TOP-KT-009 - Overzicht gebruikte FHIR Resources" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="200" y="440" width="110" height="30" as="geometry" />
+          <mxGeometry x="210" y="440" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-13" value="TOP-KT-007 - Koppeltaal Launch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="201" y="480" width="110" height="30" as="geometry" />
+          <mxGeometry x="211" y="480" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-14" value="TOP-KT-011 - Logging" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="440" y="520" width="110" height="30" as="geometry" />
+          <mxGeometry x="450" y="520" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-15" value="TOP-KT-012c - Foutafhandeling bij de launch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="561" y="560" width="110" height="30" as="geometry" />
+          <mxGeometry x="571" y="560" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-17" value="TOP-KT-011 - Logging" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="440" y="560" width="110" height="30" as="geometry" />
+          <mxGeometry x="450" y="560" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-18" value="TOP-KT-007 - Koppeltaal Launch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="201" y="560" width="110" height="30" as="geometry" />
+          <mxGeometry x="211" y="560" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-19" value="TOP-KT-016 - SMART on FHIR Conformiteit" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="201" y="600" width="110" height="30" as="geometry" />
+          <mxGeometry x="211" y="600" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-20" value="TOP-KT-021 - Token Introspection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="320" y="600" width="110" height="30" as="geometry" />
+          <mxGeometry x="330" y="600" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-21" value="TOP-KT-007 - Koppeltaal Launch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="200" y="640" width="110" height="30" as="geometry" />
+          <mxGeometry x="210" y="640" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-22" value="TOP-KT-016 - SMART on FHIR Conformiteit" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="319" y="640" width="110" height="30" as="geometry" />
+          <mxGeometry x="329" y="640" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-23" value="TOP-KT-005c - Applicatie toegang: SMART on FHIR backend services" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="110" height="30" as="geometry" />
+          <mxGeometry x="210" y="200" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-24" value="TOP-KT-002a - FHIR Resource Service interacties" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="201" y="320" width="110" height="30" as="geometry" />
+          <mxGeometry x="211" y="320" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-25" value="TOP-KT-003 -ID, identifier, referenties en referentie integriteit" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="320" y="320" width="110" height="30" as="geometry" />
+          <mxGeometry x="330" y="320" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-26" value="TOP-KT-012a - FHIR REST API Foutafhandeling" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="561" y="280" width="110" height="30" as="geometry" />
+          <mxGeometry x="571" y="280" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-27" value="TOP-KT-012a - FHIR REST API Foutafhandeling" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="561" y="320" width="110" height="30" as="geometry" />
+          <mxGeometry x="571" y="320" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-29" value="informative" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="661" y="75" width="70" height="25" as="geometry" />
+          <mxGeometry x="671" y="75" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-30" value="essential" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="661" y="25" width="70" height="25" as="geometry" />
+          <mxGeometry x="671" y="25" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-31" value="all types" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="571" y="25" width="70" height="25" as="geometry" />
+          <mxGeometry x="581" y="25" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-32" value="portal only" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="571" y="50" width="70" height="25" as="geometry" />
+          <mxGeometry x="581" y="50" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-33" value="module only" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="571" y="75" width="70" height="25" as="geometry" />
+          <mxGeometry x="581" y="75" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-34" value="TOP-KT-012b - FHIR REST Client foutafhandeling" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="440" y="360" width="110" height="30" as="geometry" />
+          <mxGeometry x="450" y="360" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-35" value="edge cases" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="661" y="50" width="70" height="25" as="geometry" />
+          <mxGeometry x="671" y="50" width="70" height="25" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-36" value="TOP-KT-007 - Koppeltaal Launch" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="201" y="520" width="110" height="30" as="geometry" />
+          <mxGeometry x="211" y="520" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-37" value="TOP-KT-008 - Beveiliging aspecten" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="320" y="200" width="110" height="30" as="geometry" />
+          <mxGeometry x="330" y="200" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-38" value="TOP-KT-008 - Beveiliging aspecten" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="320" y="520" width="110" height="30" as="geometry" />
+          <mxGeometry x="330" y="520" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-39" value="TOP-KT-008 - Beveiliging aspecten" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="320" y="560" width="110" height="30" as="geometry" />
+          <mxGeometry x="330" y="560" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-40" value="TOP-KT-008 - Beveiliging aspecten" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="201" y="120" width="110" height="30" as="geometry" />
+          <mxGeometry x="211" y="120" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-41" value="TOP-KT-002b - Search interacties" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="200" y="360" width="110" height="30" as="geometry" />
+          <mxGeometry x="210" y="360" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-42" value="TOP-KT-005a - Rollen en rechten voor applicatie-instanties" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="201" y="160" width="110" height="30" as="geometry" />
+          <mxGeometry x="211" y="160" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-43" value="TOP-KT-005b - Rollen Matrix" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="320" y="160" width="110" height="30" as="geometry" />
+          <mxGeometry x="330" y="160" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hYRiOcwRe31b9Vzl6XwD-44" value="TOP-KT-021 - Token Introspection" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="678" y="200" width="110" height="30" as="geometry" />
