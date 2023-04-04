@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T14:36:11.218Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="1r74SotfyMDSmo1IhTYO" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-04T15:14:59.097Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="-KdfrQ-jmItwWzQg6Zqb" version="21.1.4" type="github">
   <diagram id="ASmLAsQBJp6RxAvkR3ZK" name="Page-1">
     <mxGraphModel dx="1795" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,10 +64,13 @@
             <mxPoint x="-230" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tFAe00YomWJKI2c7WjUw-17" value="redirect FORM" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;exitX=-0.2;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=9;" parent="1" target="tFAe00YomWJKI2c7WjUw-1" edge="1">
+        <mxCell id="tFAe00YomWJKI2c7WjUw-17" value="redirect FORM" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;fontSize=9;exitX=0;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="tFAe00YomWJKI2c7WjUw-1" edge="1" source="HlWA1m7cCYBmyquMdnti-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-222" y="179" as="sourcePoint" />
+            <mxPoint x="-222" y="170" as="sourcePoint" />
             <mxPoint x="-300" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-290" y="170" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tFAe00YomWJKI2c7WjUw-18" value="&lt;span style=&quot;text-align: start;&quot; id=&quot;docs-internal-guid-1505f8b8-7fff-2bb9-398f-21b4f6429415&quot;&gt;&lt;p style=&quot;line-height: 1.2; text-align: center; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-family: Asap, sans-serif; font-variant-ligatures: normal; font-variant-east-asian: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;iss={fhir url}&amp;amp;launch={hti token}&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;exitX=1.2;exitY=0.117;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="tFAe00YomWJKI2c7WjUw-2" edge="1">
